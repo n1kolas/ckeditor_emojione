@@ -1,0 +1,7 @@
+name: CKEditor emojione
+type: module
+description: 'CKEditor emojione integration.'
+core: 8.x
+package: CKEditor
+dependencies:
+  - ckeditor

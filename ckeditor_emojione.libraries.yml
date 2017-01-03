@@ -1,0 +1,16 @@
+emojione:
+  remote: https://cdnjs.cloudflare.com
+  version: 2.2.7
+  license:
+       name: Creative Commons
+       url: http://emojione.com/licensing/
+  js:
+    https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/lib/js/emojione.min.js: { type: external, minified: true }
+
+ckeditor_emojione:
+  version: 1.0.0
+  js:
+    js/plugins/emojione/plugin.js: {}
+  css:
+    js/plugins/emojione/emojione.css: {}
+  icon: js/plugins/emojione/icons/emojione.png

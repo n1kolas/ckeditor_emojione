@@ -1,0 +1,14 @@
+{
+  "name": "drupal/ckeditor_emojione",
+  "type": "drupal-module",
+  "description": "CKEditor Emojione Implementation",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/ckeditor_emojione",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/ckeditor_emojione",
+    "source": "http://cgit.drupalcode.org/ckeditor_emojione"
+  },
+  "require": { }
+}
